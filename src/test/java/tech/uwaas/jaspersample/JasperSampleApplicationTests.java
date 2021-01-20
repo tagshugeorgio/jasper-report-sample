@@ -1,0 +1,13 @@
+package tech.uwaas.jaspersample;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JasperSampleApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
